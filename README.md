@@ -6,3 +6,4 @@ Tweepy is a Python package that provides a way to access the Twitter API with Py
 TextBlob is a Python library, used to process the Textual data.
 Here, the COVID-19 vaccination data is pulled from Twitter's feed.
 Polarity and Subjectivity are displayed for each extracted Tweet.
+After that, Sentiment/Emotion of each Tweet is shown saying 'Positive', 'Negative' or 'Neutral'.
