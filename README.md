@@ -1,4 +1,4 @@
-# Sentiment_Analysis_TweeBlob
+# Sentiment Analysis using TweeBlob
 This project is to fetch Tweets in real-time.
 It uses 'Tweepy' and 'TextBlob'.
 See, that's how I came up with the name, TweeBlob!
